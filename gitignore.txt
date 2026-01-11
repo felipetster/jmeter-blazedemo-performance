@@ -1,0 +1,5 @@
+.log
+.jtl
+.csv
+report
+results
