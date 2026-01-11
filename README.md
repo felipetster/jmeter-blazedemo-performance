@@ -20,7 +20,7 @@ O script `blazedemo_booking_flow.jmx` cobre o seguinte fluxo End-to-End:
 ## Resultados e Evidências
 O teste foi executado com sucesso validando os critérios de aceitação (HTTP 200 e Presença de texto de confirmação).
 
-![Evidencia do Teste](Results_tree_booking.png)
+![Evidencia do Teste](evidence/Results_tree_booking.png)
 
 ## Como executar este projeto
 1. Tenha o **JMeter** instalado.
