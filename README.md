@@ -2,7 +2,7 @@
 
 Projeto de testes de performance executado no site de demonstração **BlazeDemo** (simulação de reserva de passagens aéreas).
 
-O objetivo foi validar o comportamento da aplicação sob carga e garantir a integridade do fluxo de reserva (Booking Flight).
+O objetivo foi validar o comportamento da aplicação sob carga e garantir a integridade do fluxo de reserva.
 
 ## Tecnologias Utilizadas
 - **JMeter 5.6:** Para orquestração e execução dos testes de carga.
